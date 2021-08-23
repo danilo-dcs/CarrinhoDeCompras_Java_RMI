@@ -26,3 +26,15 @@ um carrinho de compras de um site.
     <li>Pesquisar um produto</li>
     <li>Mostrar total da compra</li>
 </ul>
+
+
+## Executando o Programa
+
+Certifique-se de instalar o JDK na sua máquina. Com o JDK instalado, abrir o terminal no diretório './src' e executar os comandos abaixo:
+
+```
+javac *.java           # compilando os arquivos java
+start rmiregistry      # Iniciando o registro RMI
+java Servidor          # Executando o servidor
+java Cliente           # Executando o cliente
+```
