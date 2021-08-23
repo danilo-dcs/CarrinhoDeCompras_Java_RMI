@@ -12,8 +12,7 @@ um carrinho de compras de um site.
     <li>Código do produto</li>
     <li>Quantidade</li>
     <li>Valor unitário</li>
-    <li>Código do produto</li>
-    <li>Valor total</li>
+    <li>Valor total do carrinho</li>
     <li>Frete</li>
 </ul>
 
